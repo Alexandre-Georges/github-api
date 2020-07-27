@@ -1,0 +1,18 @@
+[
+  {
+    "id": 456,
+    "user": {
+      "login": "pr-review-1261-1",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/pr-review-1261-1"
+    },
+    "submitted_at": "2020-07-10T20:35:52Z"
+  },
+  {
+    "id": 567,
+    "user": {
+      "login": "pr-review-1261-2",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/pr-review-1261-2"
+    },
+    "submitted_at": "2020-05-11T20:48:57Z"
+  }
+]

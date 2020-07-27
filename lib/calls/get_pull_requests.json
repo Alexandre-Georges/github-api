@@ -1,0 +1,34 @@
+[
+  {
+    "number": 1260,
+    "user": {
+      "login": "pr-1260",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/pr-1260"
+    },
+    "created_at": "2020-07-10T17:41:36Z",
+    "head": {
+      "repo": {
+        "name": "pr-1260-repo-name",
+        "owner": {
+          "login": "pr-1260-owner"
+        }
+      }
+    }
+  },
+  {
+    "number": 1261,
+    "user": {
+      "login": "pr-1261",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/52550424?v=4"
+    },
+    "created_at": "2020-05-11T20:48:57Z",
+    "head": {
+      "repo": {
+        "name": "pr-1261-repo-name",
+        "owner": {
+          "login": "pr-1261-owner"
+        }
+      }
+    }
+  }
+]
